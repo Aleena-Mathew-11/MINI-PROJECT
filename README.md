@@ -149,7 +149,3 @@ Aspiring Data Analyst | Power BI Developer | Business Intelligence Enthusiast
 
 ---
 
-## 🏷️ Tags
-
-`Power BI` `Data Analytics` `Business Intelligence` `Dashboard` `Data Visualization` `DAX` `Power Query` `Employee Analytics` `KPI Dashboard` `Excel`
-
